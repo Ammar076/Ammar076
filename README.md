@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Ammar076">
-    <img src="https://komarev.com/ghpvc/?username=Ammar076&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ammar076's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Ammar076&label=Profile%20views&color=7a5af8&style=flat-square" alt="Ammar076's profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/ammar-mudhsh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/></a>
-  <a href="mailto:ammarabdulrahman07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=00FFFF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ammar-mudhsh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&color=7a5af8" alt="LinkedIn"/></a>
+  <a href="mailto:ammarabdulrahman07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=7a5af8" alt="Email"/></a>
 </p>
 
 ## 📌 About Me & Focus Areas
-- 👨‍💻 Full-Stack Software Engineer specializing in **B2B SaaS architecture, Enterprise 3D Data Visualization, and Multi-Agent AI Integrations**.
-- 💼 Driving product growth and platform architecture for **TableTap**, a modern POS for African hospitality.
-- 🚀 Scrum Master and Lead Mobile Developer for **NiftyPantry**, a cross-platform Flutter application.
-- 🎓 Software Engineering Student at Universiti Teknologi Malaysia (UTM).
+- Full-Stack Software Engineer specializing in **B2B SaaS architecture, Enterprise 3D Data Visualization, and Multi-Agent AI Integrations**.
+- Driving product growth and platform architecture for **TableTap**, a modern POS for African hospitality.
+-  Master and Lead Mobile Developer for **NiftyPantry**, a cross-platform Flutter application.
+- Software Engineering Student at Universiti Teknologi Malaysia (UTM).
 
 ## 🛠️ Core Languages & Tools
 
