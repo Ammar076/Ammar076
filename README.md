@@ -8,13 +8,13 @@
   <a href="mailto:ammarabdulrahman07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&color=7a5af8" alt="Email"/></a>
 </p>
 
-## 📌 About Me & Focus Areas
+## About Me & Focus Areas
 - Full-Stack Software Engineer specializing in **B2B SaaS architecture, Enterprise 3D Data Visualization, and Multi-Agent AI Integrations**.
 - Driving product growth and platform architecture for **TableTap**, a modern POS for African hospitality.
 -  Master and Lead Mobile Developer for **NiftyPantry**, a cross-platform Flutter application.
 - Software Engineering Student at Universiti Teknologi Malaysia (UTM).
 
-## 🛠️ Core Languages & Tools
+## Core Languages & Tools
 
 **Frontend, 3D & UI**
 <br>
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Ammar076">
